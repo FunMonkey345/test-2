@@ -537,3 +537,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Apr2025 03:05:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Dragonslayer]
 [16Apr2025 03:05:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Ceft to Juan123]
 [16Apr2025 03:07:26.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has completed the challenge [Cannibal]
+[16Apr2025 03:08:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Monster Hunter]
+[16Apr2025 03:08:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Strange Grave Dust]
+[16Apr2025 03:10:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft was slain by Juan123
+[16Apr2025 03:10:36.877] [Server thread/INFO] [tombstone/]: The player Ceft has successfully been saved
+[16Apr2025 03:11:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ceft: Teleported Ceft to -53.500000, 81.500000, -905.500000]
+[16Apr2025 03:11:41.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[16Apr2025 03:11:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has made the advancement [Monster Hunter]
+[16Apr2025 03:17:15.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ceft lost connection: Timed out
+[16Apr2025 03:17:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft left the game
+[16Apr2025 03:17:15.660] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Apr2025 03:18:07.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ceft[/100.111.127.65:53300] logged in with entity id 24078 at (-342.7704542019122, 63.09375, -807.4485029140662)
+[16Apr2025 03:18:07.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft joined the game
+[16Apr2025 03:18:07.959] [Server thread/INFO] [Jade/]: Syncing config to Ceft (4b817336-318c-3c3a-bf47-92ed281a181d)
