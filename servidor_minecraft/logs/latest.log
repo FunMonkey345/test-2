@@ -515,3 +515,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Apr2025 02:56:18.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has made the advancement [Sweet Dreams]
 [16Apr2025 02:56:21.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sweet Dreams]
 [16Apr2025 02:57:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has made the advancement [Easter Egg Searcher]
+[16Apr2025 02:57:28.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[16Apr2025 02:57:28.565] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 02:57:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -434.500000, 63.500000, -1029.500000]
+[16Apr2025 02:59:19.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned to ice by Ice Dragon
+[16Apr2025 02:59:19.765] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 03:01:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was frozen by Ice Dragon
+[16Apr2025 03:01:13.864] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 03:02:40.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ceft: Teleported Ceft to Juan123]
+[16Apr2025 03:03:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has made the advancement [Isn't It Iron Pick]
+[16Apr2025 03:04:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 walked into a cactus whilst trying to escape Ice Dragon
+[16Apr2025 03:04:22.710] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 03:04:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -173.500000, 68.500000, -1013.500000]
+[16Apr2025 03:04:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft was frozen by Ice Dragon
+[16Apr2025 03:04:30.505] [Server thread/INFO] [tombstone/]: The player Ceft has successfully been saved
+[16Apr2025 03:05:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Knowledge of Death]
+[16Apr2025 03:05:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Chain Death]
+[16Apr2025 03:05:00.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[16Apr2025 03:05:00.182] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 03:05:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -153.500000, 83.500000, -963.500000]
+[16Apr2025 03:05:27.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Dragonslayer]
+[16Apr2025 03:05:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Ceft to Juan123]
+[16Apr2025 03:07:26.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has completed the challenge [Cannibal]
