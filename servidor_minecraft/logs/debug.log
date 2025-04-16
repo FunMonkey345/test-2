@@ -9251,3 +9251,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [16Apr2025 03:18:07.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft joined the game
 [16Apr2025 03:18:07.959] [Server thread/INFO] [Jade/]: Syncing config to Ceft (4b817336-318c-3c3a-bf47-92ed281a181d)
 [16Apr2025 03:18:08.208] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 4b817336-318c-3c3a-bf47-92ed281a181d data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[16Apr2025 03:18:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Ceft to Juan123]
+[16Apr2025 03:18:42.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 03:18:42.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 03:19:23.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft has made the advancement [Tools of the Trade]
+[16Apr2025 03:19:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was swarmed by Firefly Swarm
+[16Apr2025 03:19:24.450] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-337, y:69, z:-744, dim:minecraft:overworld]
+[16Apr2025 03:19:24.462] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[16Apr2025 03:19:25.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ceft was swarmed by Firefly Swarm
+[16Apr2025 03:19:25.951] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ceft was created at position [x:-336, y:69, z:-744, dim:minecraft:overworld]
+[16Apr2025 03:19:25.959] [Server thread/INFO] [tombstone/]: The player Ceft has successfully been saved
+[16Apr2025 03:19:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -335.500000, 68.500000, -744.500000]
+[16Apr2025 03:19:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ceft: Teleported Ceft to -334.500000, 69.500000, -744.500000]
+[16Apr2025 03:20:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tools of the Trade]
+[16Apr2025 03:23:42.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 03:23:42.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
